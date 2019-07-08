@@ -1,4 +1,4 @@
-# Scenery-Image-Classsification
+# Image_Scenery_Recognition
 This repository contains R script to the in-class Kaggle activity on classifying images into scenery categories. 
 This activity was part of the Behavioural Data Science course at the University of Amsterdam, carried out by me and Vincent 
 Schreuder. 
